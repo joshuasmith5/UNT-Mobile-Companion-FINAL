@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "729673730886",
+    "project_id": "eventcalendar-43573",
+    "storage_bucket": "eventcalendar-43573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729673730886:android:20a159e1356326449fb347",
+        "android_client_info": {
+          "package_name": "com.example.tablecalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729673730886-h614i7rioh94fk4hfjb3pjjlotfjc1de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8dr6K6BrTvcwwLo5bB1fDfFRBL23rlLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729673730886-h614i7rioh94fk4hfjb3pjjlotfjc1de.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729673730886-4v4gua47uefcrfd347i7dj90p9aphlu5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tablecalendar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729673730886:android:a6819b3e495a7e779fb347",
+        "android_client_info": {
+          "package_name": "edu.unt.unt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729673730886-h614i7rioh94fk4hfjb3pjjlotfjc1de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8dr6K6BrTvcwwLo5bB1fDfFRBL23rlLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729673730886-h614i7rioh94fk4hfjb3pjjlotfjc1de.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729673730886-4v4gua47uefcrfd347i7dj90p9aphlu5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tablecalendar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

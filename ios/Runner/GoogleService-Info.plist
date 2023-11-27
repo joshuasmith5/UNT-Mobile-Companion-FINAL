@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>729673730886-3ealr22a98e8vl35a6ejj284ob5hg79e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.729673730886-3ealr22a98e8vl35a6ejj284ob5hg79e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCq2SggvUy2jLJD2VMvLmvC5Pu_Hcv39Ig</string>
+	<key>GCM_SENDER_ID</key>
+	<string>729673730886</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.unt.untApp</string>
+	<key>PROJECT_ID</key>
+	<string>eventcalendar-43573</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eventcalendar-43573.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:729673730886:ios:6eadeb8e822045ad9fb347</string>
+</dict>
+</plist>
